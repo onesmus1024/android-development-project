@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.droidcafe.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/app_bar_switch"
+        android:orderInCategory="101"
+        android:title="Switch"
+        app:actionLayout="@layout/switch_item"
+        android:icon="@drawable/ic_shopping_cart"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:orderInCategory="102"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/contact_order"
+        android:orderInCategory="103"
+        android:title="contact" />
+</menu>
