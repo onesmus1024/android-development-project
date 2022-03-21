@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Interactive</string>
+    <string name="textview1">Introduction \n
+In this practical you learn more about the activity
+        lifecycle. The lifecycle is the set of states
+        an activity can be in during its entire lifetime,
+        from when it\'s created to when it\'s destroyed
+        and the system reclaims its resources. As a user navigates
+        between activities in your
+        app (as well as into and out of your app),
+        activities transition between different states
+        in their lifecycles.</string>
+    <string name="textview2">Introduction \n
+In this practical you learn more about the activity
+        lifecycle. The lifecycle is the set of states
+        an activity can be in during its entire lifetime,
+        from when it\'s created to when it\'s destroyed
+        and the system reclaims its resources. As a user navigates
+        between activities in your
+        app (as well as into and out of your app),
+        activities transition between different states
+        in their lifecycles.</string>
+    <string name="textview3">Introduction \n
+In this practical you learn more about the activity
+        lifecycle. The lifecycle is the set of states
+        an activity can be in during its entire lifetime,
+        from when it\'s created to when it\'s destroyed
+        and the system reclaims its resources. As a user navigates
+        between activities in your
+        app (as well as into and out of your app),
+        activities transition between different states
+        in their lifecycles.</string>
+</resources>
